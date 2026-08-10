@@ -59,7 +59,7 @@ AI-Interview-Prep/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/AI-Interview-Prep-Assistant.git
+git clone https://github.com/AnkitaDas421/AI-Interview-Prep.git
 ```
 
 2. Open the project
@@ -92,16 +92,17 @@ npm start
 
 ## 📸 Screenshots
 
-Add screenshots here after uploading them.
+### 🏠 Home Page
+![Home Page](assets/screenshots/home.png)
 
-Example:
+### 🎯 Generated Questions
+![Generated Questions](assets/screenshots/questions.png)
 
-- Home Page
-- Generated Questions
-- Generated Answers
-- PDF Download
+### 💡 AI Generated Answers
+![AI Generated Answers](assets/screenshots/answers.png)
 
----
+### 📄 PDF Export
+![PDF Export](assets/screenshots/pdf.png)
 
 ## ✨ Future Enhancements
 
