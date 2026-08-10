@@ -1,13 +1,19 @@
 {
   "name": "ai-interview-prep",
   "version": "1.0.0",
-  "description": "",
-  "main": "script.js",
+  "description": "AI Interview Preparation Assistant",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "AI",
+    "Interview",
+    "Gemini",
+    "Node.js",
+    "Express"
+  ],
+  "author": "Ankita Das",
   "license": "ISC",
   "type": "module",
   "dependencies": {
