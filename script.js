@@ -22,7 +22,7 @@ async function generateQuestions() {
 
     try {
 
-        const response = await fetch("http://localhost:3000/generate", {
+        const response = await fetch("/generate", {
 
             method: "POST",
 
@@ -263,7 +263,7 @@ async function generateAnswer(button) {
 
     try {
 
-        const response = await fetch("http://localhost:3000/answer", {
+        const response = await fetch("/answer", {
 
             method: "POST",
 
