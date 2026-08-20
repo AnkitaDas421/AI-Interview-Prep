@@ -2,8 +2,7 @@
 
 An AI-powered interview preparation web application that generates role-specific interview questions and AI-generated answers. It helps job seekers practice technical and behavioral interviews with a clean and responsive user interface.
 
----
-
+🔗 **Live Demo:** https://ai-interview-prep-chcl.onrender.com
 ## 📌 Features
 
 - 🎯 Enter any job role (e.g., Python Developer, Java Developer, Data Analyst)
